@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MiniMax API documentation
+    url: https://platform.minimax.io/docs/guides/video-generation
+    about: Check current provider capabilities, parameters, and API behavior before reporting them here.
+
+  - name: bestimage.ai API documentation
+    url: https://bestimage.ai/docs/
+    about: Check the published MiniMax H3 or GPT Image 2 integration before reporting bestimage.ai API behavior.
